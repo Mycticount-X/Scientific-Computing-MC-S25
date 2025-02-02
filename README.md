@@ -4,9 +4,17 @@ This repository is a reference implementation inspired by the book **"Python Mac
 
 ## Chapter 1: NumPy
 
-The project showcases the use of **NumPy** for manipulating and processing numerical data efficiently. With techniques introduced in this repository, you will learn how to:
-- Use **NumPy arrays** for fast mathematical operations.
-- Understand and apply key functions and operations in **NumPy** that are critical in machine learning tasks.
+The project showcases the use of **NumPy** for manipulating and processing numerical data efficiently. This is the Course Outline
+1. Vector and Array
+2. Matrix
+3. Sparse Matrix
+4. Selecting and Slincing Elements
+5. Shape, Size, and Dimension
+6. Matrix Operation
+7. Basic Statistic
+8. Matrix Signature
+9. Linear Algebra
+10. Random Array Generator
 
 ## Chapter 2: Data with SciPy
 

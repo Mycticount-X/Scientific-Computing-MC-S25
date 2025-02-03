@@ -16,6 +16,6 @@ The project showcases the use of **NumPy** for manipulating and processing numer
 9. Linear Algebra
 10. Random Array Generator
 
-## Chapter 2: Data with SciPy
+## Chapter 2: Data with Scikit-Learn and PyPlot
 
 On progress...

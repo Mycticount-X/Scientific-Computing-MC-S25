@@ -1,6 +1,6 @@
 # Machine Learning with Mycticount-X
 
-This repository is a reference implementation inspired by the book **"Python Machine Learning Cookbook"** by **Chris Albon**. The code demonstrates how to work with **NumPy** for data manipulation, a fundamental skill for anyone starting with **Machine Learning** and **Data Science**. If you're a beginner in **Machine Learning** or **Data Science**, I highly recommend reading that book. This book is full of practical recipes for handling real-world datasets and machine learning tasks using **Python**.
+This repository is a reference implementation inspired by the book **"Python Machine Learning Cookbook"** by **Chris Albon**. The code demonstrates how to work with Data Handling and Scientific Computing, a fundamental skill for anyone starting with **Machine Learning** and **Data Science**. If you're a beginner in **Machine Learning** or **Data Science**, I highly recommend reading that book. This book is full of practical recipes for handling real-world datasets and machine learning tasks using **Python**.
 
 ## Chapter 1: NumPy
 
@@ -16,6 +16,16 @@ The project showcases the use of **NumPy** for manipulating and processing numer
 9. Linear Algebra
 10. Random Array Generator
 
-## Chapter 2: Data with Scikit-Learn and PyPlot
+## Chapter 2: Scikit-Learn and Matplotlib
 
-On progress...
+This chapter showcases the use of **Scikit-Learn** and **Matplotlib** in data handling. This is the Course Outline
+1. Insert Data
+2. Regression
+3. Interpolaration
+
+
+## Chapter 3: SymPy
+
+This chapter showcases the basic of Scientific Computing. This is the Course Outline
+1. Symbol
+
